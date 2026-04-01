@@ -4,3 +4,6 @@
 
 - Currently learning C++ for uni, but have used Python in personal project before
 - Loves computer stuff (But still a beginner, would like for anyone to teach me ;) )
+
+
+*p.s. will update this page if im more experience*
