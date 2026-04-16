@@ -5,15 +5,22 @@
 - Currently learning C++ for uni, but have used Python in personal project before
 - Loves computer stuff (But still a beginner, would like for anyone to teach me ;) )
 
+<h3 align="center">Current Software:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,mint,vscode,bash" />
+  </a>
+</p>
 <hr>
+
 <h3 align="center">Tinkered with:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,arduino,vscode,godot,html" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,arduino,godot,html" />
   </a>
 </p>
-
 <hr>
 
 <h3>My Programming Notes</h3> 
