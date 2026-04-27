@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,mint,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,vscode,bash" />
   </a>
 </p>
 <hr>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,arduino,godot,html" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,arduino,godot,html,mint" />
   </a>
 </p>
 <hr>
