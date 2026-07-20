@@ -2,15 +2,19 @@
 
 <h3 align="center">A uni student that loves computer and still learning.</h3>
 
-- Currently learning C++ for uni, but have used Python in personal project before
+- Currently learning C++ & Python for uni though I have used Python in personal project before
 - Loves computer stuff (But still a beginner, would like for anyone to teach me ;) )
+
+<h3 align="center">
+  <a href="https://ianachi09.github.io/Ianachi-Website-Portfolio/">My Personal Website</a>
+</h3>
 
 <h3 align="center">Current Software:</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,vscode,bash" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skills.syvixor.com/api/icons?i=cachyos&perline=12&radius=40" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 <hr>
 
@@ -22,10 +26,5 @@
   </a>
 </p>
 <hr>
-
-<h3>My Programming Notes</h3> 
-
-[C++ Notes](https://www.notion.so/C-Notes-335b4efbcde380aaa89ec3ef2c60035e?source=copy_link)
-
 
 *p.s. will update this page if im more experienced*
